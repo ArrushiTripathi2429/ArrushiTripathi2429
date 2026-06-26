@@ -66,6 +66,10 @@ Currently exploring AI automation deeper, sharpening DSA, full-stack, GenAI, Age
 ---
 
 ### Projects
+**[NERVE](https://nerve-psi-three.vercel.app/)** — Multi-agent AI financial assistant
+> Nerve is an AI financial copilot for D2C brands that monitors business data, detects hidden profit leaks, predicts cash flow risks, and recommends actions before problems become costly.
+>
+> `Next.js` `FastAPI` `Gemini` `BigQuery` `Fivetran` `Shopify` `Stripe` `Google Cloud Run` `Vercel`
 
 **[Sanrakshan](https://sanrakshann.netlify.app/)** — AI relief coordination
 > Full-stack platform built on real government data from 1,663 Rae Bareli villages. Accepts voice/photo/text disaster reports, transcribes audio via Groq Whisper, scores severity with Gemini 2.0, and routes nearest volunteers via OSRM. Live weather + news feeds, dynamic map markers, DPDP Act 2023 PII redaction. Deployed on Cloud Run + Netlify.
