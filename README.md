@@ -92,7 +92,7 @@ Currently exploring AI automation deeper, sharpening DSA, full-stack, GenAI, Age
 
 -   National Finalist · Harit Manthan Hackathon 2026 — organized by Delhi Development Authority
 -  B.Tech + M.Tech IDD · Computer Science · RGIPT, Rae Bareli · 2024–2029
--  Open to internships in full-stack AI, GenAI products, or applied ML roles
+-  GirlScript Summer of Code 2026 Contributor
 
 ---
 
