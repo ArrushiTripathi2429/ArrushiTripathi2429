@@ -66,6 +66,16 @@ Currently exploring AI automation deeper, sharpening DSA, full-stack, GenAI, Age
 ---
 
 ### Projects
+**[PRISM](https://verity-ranker.streamlit.app/)** — Evidence-backed hiring intelligence pipeline
+> Verity Ranker is an AI recruiting pipeline that ranks 100K+ candidates against job requirements, surfacing evidence-backed justifications instead of black-box scores — combining semantic search, keyword matching, and reciprocal rank fusion for transparent, defensible rankings.
+>
+> `LangGraph` `Gemini` `FAISS` `BM25` `RRF` `Streamlit`
+
+**[KrishiVani](https://github.com/ArrushiTripathi2429/Krishi-Vani)** — Cross-lingual agentic RAG for Indian farmers
+> KrishiVani is a multilingual AI assistant that answers farmer queries in their own language by retrieving from 73K+ real Kisan Call Centre transcripts, giving grounded, dialect-aware agricultural advice instead of generic chatbot answers.
+>
+> `Next.js` `FastAPI` `FAISS` `HuggingFace Embeddings` `Groq` `HuggingFace Spaces` `Vercel`
+> 
 **[NERVE](https://nerve-psi-three.vercel.app/)** — Multi-agent AI financial assistant
 > Nerve is an AI financial copilot for D2C brands that monitors business data, detects hidden profit leaks, predicts cash flow risks, and recommends actions before problems become costly.
 >
